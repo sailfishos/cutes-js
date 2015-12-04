@@ -2,7 +2,7 @@ Summary: Javascript libraries for cutes
 Name: cutes-js
 Version: 0.0.0
 Release: 0
-License: LGPL21
+License: LGPLv2.1
 Group: System Environment/Tools
 URL: https://github.com/nemomobile/cutes-js
 Source0: %{name}-%{version}.tar.bz2
